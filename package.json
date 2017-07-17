@@ -85,8 +85,7 @@
           },
           "useBuiltIns": true,
           "exclude": [
-            "transform-regenerator",
-            "transform-async-to-generator"
+            "transform-regenerator"
           ]
         }
       ],
@@ -120,8 +119,5 @@
   "files": [
     "dist/*.*",
     "dist/**/*.*"
-  ],
-  "dependencies": {
-    "core-js": "^2.4.1"
-  }
+  ]
 }
