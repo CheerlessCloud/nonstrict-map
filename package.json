@@ -102,7 +102,7 @@
     "commitTypeMap": {
       "feat": "minor",
       "fix": "patch",
-      "docs": "patch",
+      "docs": "null",
       "style": "null",
       "refactor": "patch",
       "perf": "patch",
