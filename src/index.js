@@ -15,8 +15,10 @@ class NonStrictMap extends Map {
       out: customTransforms.out || transformsDefault.out,
     };
 
-    for (const pair of iterable) {
-      this.set(...pair);
+    if (iterable) {
+      for (const pair of iterable) {
+        this.set(...pair);
+      }
     }
   }
 
