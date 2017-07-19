@@ -16,6 +16,13 @@ test.afterEach((t) => {
   delete t.context.map;
 });
 
+test('constructor without arguments', (t) => {
+  t.notThrows(() => {
+    // eslint-disable-next-line no-new
+    new NSMap();
+  }, 'constructor must no throws exeptions');
+});
+
 test('constructor with iterable objects', (t) => {
   t.notThrows(() => {
     // eslint-disable-next-line no-new
