@@ -1,14 +1,14 @@
 # NonStrictMap
 Auto serialize and deserialize keys in ES6 Map.
 
-[![Build Status](https://travis-ci.org/TeslaCtroitel/nonstrict-map.svg?branch=master)](https://travis-ci.org/TeslaCtroitel/nonstrict-map)
-[![Coverage Status](https://coveralls.io/repos/github/TeslaCtroitel/nonstrict-map/badge.svg?branch=master)](https://coveralls.io/github/TeslaCtroitel/nonstrict-map?branch=master)
-[![node](https://img.shields.io/node/v/nonstrict-map.svg)]()
-[![MIT License](https://img.shields.io/npm/l/nonstrict-map.svg)]()
+[![Build Status](https://img.shields.io/travis/CheerlessCloud/nonstrict-map.svg?style=flat-square)]()
+[![Coverage Status](https://img.shields.io/coveralls/CheerlessCloud/nonstrict-map.svg?style=flat-square)]()
+[![node](https://img.shields.io/node/v/nonstrict-map.svg?style=flat-square)]()
+[![MIT License](https://img.shields.io/npm/l/nonstrict-map.svg?style=flat-square)]()
 
 [![NPM](https://nodei.co/npm/nonstrict-map.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/nonstrict-map/)
 
-[![Sponsor](https://app.codesponsor.io/embed/jkPpzosXxwDBBaBNpoqWKCXd/TeslaCtroitel/nonstrict-map.svg)](https://app.codesponsor.io/link/jkPpzosXxwDBBaBNpoqWKCXd/TeslaCtroitel/nonstrict-map)
+[![Sponsor](https://app.codesponsor.io/embed/jkPpzosXxwDBBaBNpoqWKCXd/CheerlessCloud/nonstrict-map.svg)](https://app.codesponsor.io/link/jkPpzosXxwDBBaBNpoqWKCXd/CheerlessCloud/nonstrict-map)
 
 ``` js
 const map = new NonStrictMap([
