@@ -8,8 +8,6 @@ Auto serialize and deserialize keys in ES6 Map.
 
 [![NPM](https://nodei.co/npm/nonstrict-map.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/nonstrict-map/)
 
-[![Sponsor](https://app.codesponsor.io/embed/jkPpzosXxwDBBaBNpoqWKCXd/CheerlessCloud/nonstrict-map.svg)](https://app.codesponsor.io/link/jkPpzosXxwDBBaBNpoqWKCXd/CheerlessCloud/nonstrict-map)
-
 ``` js
 const map = new NonStrictMap([
   [ { x: 5, y: 6 }, someValue ],
